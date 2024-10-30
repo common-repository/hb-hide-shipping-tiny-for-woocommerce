@@ -1,0 +1,20 @@
+.hbalert{
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    font-size: 1rem;
+}
+
+.hb-alert-info{
+    color: #664d03;
+    background-color: #fff3cd;
+    border-color: #ffecb5;
+}
+tr.hb-hide-shipping-content .hbalert{
+    text-align: left;
+}
+.Woo_HideShipping_Volume{
+
+}

@@ -1,0 +1,85 @@
+# Copyright (C) 2022 heiblack
+# This file is distributed under the GPL 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: HB Hide Shipping Tiny For Woocommerce 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hb-hide-shipping-tiny-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-05T00:41:48+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: hb-hide-shipping-tiny-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "HB Hide Shipping Tiny For Woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://piglet.me/hb-hide-shipping-tiny-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "A HB Hide Shipping Tiny For Woocommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "heiblack"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://piglet.me"
+msgstr ""
+
+#: hb-hide-shipping-tiny-for-woocommerce.php:66
+#: hb-hide-shipping-tiny-for-woocommerce.php:87
+msgid "Volume"
+msgstr ""
+
+#: hb-hide-shipping-tiny-for-woocommerce.php:69
+#: hb-hide-shipping-tiny-for-woocommerce.php:90
+msgid "Product volume"
+msgstr ""
+
+#: hb-hide-shipping-tiny-for-woocommerce.php:95
+msgid "When the weight or volume of the product is updated (Revise), it is recommended to clear the cache or save again by this plugin setting page."
+msgstr ""
+
+#: page/hb-settings.php:5
+msgid "HB Hide Shipping"
+msgstr ""
+
+#: page/hb-settings.php:10
+msgid "General"
+msgstr ""
+
+#: page/hb-settings.php:17
+msgid "**When the weight or volume of the product is updated(Revise), it is recommended to clear the cache or save again this page."
+msgstr ""
+
+#: page/hb-settings.php:19
+msgid "Have Bug or suggest"
+msgstr ""
+
+#: page/hb-settings.php:57
+msgid "Setting"
+msgstr ""
+
+#: page/hb-settings.php:94
+msgid "hide shipping methods"
+msgstr ""
+
+#: page/hb-settings.php:113
+msgid "Show message When “shipping_method” has hidden"
+msgstr ""
+
+#: page/hb-settings.php:119
+msgid "you can use [[br]]  [[volume]]  [[weight]]"
+msgstr ""
+
+#: page/hb-settings.php:125
+msgid "you can use [[br]]"
+msgstr ""
